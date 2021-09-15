@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Celeste-Artley
 - 👀 I’m interested in Web Development / Game Programming
-- 🌱 I’m currently learning TypeScript on my ownn, and Object Oriented Programing in school.
+- 🌱 I’m currently learning TypeScript on my own, and Object Oriented Programing in school.
 - 📫 You can reach me through my email at Celestepersonalmail@gmail.com
 
 <!---
